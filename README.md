@@ -1,7 +1,8 @@
 # fonts-cdn
 Making a locally downloaded font available to online use via CDN 
 
-<> Usage<>
+#How to use this font?
+
 @font-face {
     font-family: 'Nesto-Copper42-2765';
     src: url('https://sushanth-hebri.github.io/fonts-cdn/Nesto-Copper42-2765.woff') format('woff');    
